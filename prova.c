@@ -7,5 +7,6 @@ int main()
     int y = 3;
     printf("Il valore di y %d\n ",y);
     printf("\nCiao");
+    printf("\nIeri sono andato a giocare");
     return 0;
 }
